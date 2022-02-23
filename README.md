@@ -3,3 +3,5 @@
 
 ## TODO LIST
 - Git Commit 하기
+- Git Pudh 하시
+- Jenkins Start 
