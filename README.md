@@ -5,3 +5,4 @@
 - Git Commit 하기
 - Git Pudh 하시
 - Jenkins Start 
+- 집에가쟈
